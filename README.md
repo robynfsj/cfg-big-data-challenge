@@ -1,5 +1,14 @@
 # CFG Big Data Challenge
 
+## Team M
+Laura Ramoskaite  
+Dimitra Charalampopoulou  
+Güzide Sofi  
+Robyn Seymour-Jones  
+
+## Notebooks
+The main notebook for this project is [submission.ipynb](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/notebooks/submission.ipynb), which has also been uploaded as a [pdf](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/notebooks/submission.pdf).
+
 ## Data
 [electricity_clean.xlsx](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/data/electricity_clean.xlsx) – Cleaned electricity data from the various tables provided by the UK government (BEIS, 2020). Certain data have been extracted from the different tables. A contents page provides details of what has been extracted, the source table and futher details. Data are mixed in timescale and span. They are mainly quarterly and monthly timescales and mainly span from either 1995 or 1997 to June 2020.
 
