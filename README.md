@@ -1,10 +1,10 @@
 # CFG Big Data Challenge
 
 ## Team M
-Laura Ramoskaite
-Dimitra Charalampopoulou
-Güzide Sofi
-Robyn Seymour-Jones
+Laura Ramoskaite  
+Dimitra Charalampopoulou  
+Güzide Sofi  
+Robyn Seymour-Jones  
 
 ## Notebooks
 The main notebook for this project is [submission.ipynb](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/notebooks/submission.ipynb), which has also been uploaded as a [pdf](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/notebooks/submission.pdf).
