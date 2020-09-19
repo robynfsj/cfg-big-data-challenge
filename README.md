@@ -1,12 +1,17 @@
 # CFG Big Data Challenge
-
+![challenge header](https://raw.githubusercontent.com/robynfsj/cfg-big-data-challenge/master/images/header.jpg?token=ANPGOVNWGP52LH4EC2QDSYK7NOQV2)
+  
+The Big Data Challenge was an event run by Code First Girls in association with the Emergent Alliance and Rolls Royce R<sup>2</sup> Data Labs as part of Code Fest 2020.  The theme of the challenge was sustainability moving forwards after COVID-19. We were provided with UK electricity data, data on government policies and measures implemented to combat the pandemic and some economic data. We were asked to pick one question to answer from this [challenge statement](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/challenge%20statements/Has%20Covid-19%20switched%20our%20green%20lights%20off%3F.pdf) so we chose to investigate the impact of COVID-19 on the supply and demand of electricity in the UK. 
+  
 ## Team M
 Laura Ramoskaite  
 Dimitra Charalampopoulou  
 Güzide Sofi  
 Robyn Seymour-Jones  
-
+  
 ## Notebooks
+Notebooks used for data exploration as well as the main submission to the challenge can be found in the [notebooks](https://github.com/robynfsj/cfg-big-data-challenge/tree/master/notebooks) directory while those specifically used to model the electricity supply and demand data can be found in the [model](https://github.com/robynfsj/cfg-big-data-challenge/tree/master/model) directory.
+  
 The main notebook for this project is [submission.ipynb](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/notebooks/submission.ipynb), which has also been uploaded as a [pdf](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/notebooks/submission.pdf).
 
 ## Data
