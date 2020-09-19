@@ -14,7 +14,7 @@ The main notebook for this project is [submission.ipynb](https://github.com/roby
 
 [response_indicies.xlsx](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/data/response_indices.xlsx) – Oxford COVID-19 Government Response Tracker (OxCGRT) data showing the measures put in place by governments in response to COVID-19 (Hale et al. 2020). Only UK data has been extracted. There is one worksheet contained data for all of the UK nations combined as well as separate worksheets for the individual UK nations. Data span 2020-01-01 to 2020-08-23.
 
-[demand_for_sql.csv](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/data/demand_for_sql.csv) – Rolling demand data (Elexon, 2020). This provides the current electricity demand in the UK at 5 minute intervals for the period 2020-01-01 to 2020-08-30.
+[demand.csv](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/data/demand.csv) – Rolling demand data (Elexon, 2020). This provides the current electricity demand in the UK at 5 minute intervals for the period 2020-01-01 to 2020-08-30.
 
 [avg_demand_wk.csv](https://github.com/robynfsj/cfg-big-data-challenge/blob/master/data/avg_demand_wk.csv) – Rolling demand data (Elexon, 2020) averaged (mean) for each week.
 
